@@ -14,3 +14,4 @@ Python practice in codewars
 | 5		| Moving Zeros To The End				| https://www.codewars.com/kata/52597aa56021e91c93000cb0 |
 | 5		| Calculating with Functions			| https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39 |
 | 5		| Human Readable Time					| https://www.codewars.com/kata/52685f7382004e774f0001f7 |
+| 5		| Not very secure						| https://www.codewars.com/kata/526dbd6c8c0eb53254000110 |
