@@ -1,7 +1,7 @@
 # codewars_practice
 Python practice in codewars
 
-# Solved tasks:
+# Completed tasks:
 | kyu	| Task name								| Link 													 |
 | ----	| ---- 									| ---- 													 |
 | 7		| Reverse words 						| https://www.codewars.com/kata/5259b20d6021e9e14c0010d4 |
@@ -10,3 +10,4 @@ Python practice in codewars
 | 7		| Shortest Word 						| https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9 |
 | 6		| Array.diff							| https://www.codewars.com/kata/523f5d21c841566fde000009 |
 | 5		| Moving Zeros To The End				| https://www.codewars.com/kata/52597aa56021e91c93000cb0 |
+| 5		| Calculating with Functions			| https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39 |
