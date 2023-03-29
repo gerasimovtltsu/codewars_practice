@@ -1,6 +1,3 @@
-# codewars_practice
-Python practice in codewars
-
 # Completed tasks:
 | kyu	| Task name								| Link 													 |
 | ----	| ---- 									| ---- 													 |
