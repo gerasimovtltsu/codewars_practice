@@ -15,3 +15,4 @@ Python practice in codewars
 | 5		| Calculating with Functions			| https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39 |
 | 5		| Human Readable Time					| https://www.codewars.com/kata/52685f7382004e774f0001f7 |
 | 5		| Not very secure						| https://www.codewars.com/kata/526dbd6c8c0eb53254000110 |
+| 5		| Scramblies							| https://www.codewars.com/kata/55c04b4cc56a697bb0000048 |
