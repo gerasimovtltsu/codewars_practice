@@ -1,6 +1,7 @@
 # Completed tasks:
 | kyu	| Task name								| Link 													 |
 | ----	| ---- 									| ---- 													 |
+| 8		| Square(n) Sum 						| https://www.codewars.com/kata/515e271a311df0350d00000f |
 | 7		| Reverse words 						| https://www.codewars.com/kata/5259b20d6021e9e14c0010d4 |
 | 7		| Sum of two lowest positive integers 	| https://www.codewars.com/kata/558fc85d8fd1938afb000014 |
 | 7		| Regex validate PIN code 				| https://www.codewars.com/kata/55f8a9c06c018a0d6e000132 |
