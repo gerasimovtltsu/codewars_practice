@@ -5,6 +5,7 @@
 | 7		| Sum of two lowest positive integers 	| https://www.codewars.com/kata/558fc85d8fd1938afb000014 |
 | 7		| Regex validate PIN code 				| https://www.codewars.com/kata/55f8a9c06c018a0d6e000132 |
 | 7		| Shortest Word 						| https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9 |
+| 7		| Isograms									| https://www.codewars.com/kata/54ba84be607a92aa900000f1
 | 6		| Array.diff							| https://www.codewars.com/kata/523f5d21c841566fde000009 |
 | 6		| Two Sum								| https://www.codewars.com/kata/52c31f8e6605bcc646000082 |
 | 6		| Find the odd int						| https://www.codewars.com/kata/54da5a58ea159efa38000836 |
