@@ -20,5 +20,6 @@
 | 5		| RGB To Hex Conversion					| https://www.codewars.com/kata/513e08acc600c94f01000001 |
 | 5		| Beeramid								| https://www.codewars.com/kata/52423db9add6f6fc39000354 |
 | 4		| Snail									| https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1 |
+| 4		| Sum Strings as Numbers				| https://www.codewars.com/kata/5324945e2ece5e1f32000370 |
 | 3		| The Millionth Fibonacci				| https://www.codewars.com/kata/53d40c1e2f13e331fc000c26 |
 | 3		| Prime Streaming (PG-13)				| https://www.codewars.com/kata/5519a584a73e70fa570005f5 |
