@@ -9,6 +9,7 @@
 | 6		| Array.diff							| https://www.codewars.com/kata/523f5d21c841566fde000009 |
 | 6		| Two Sum								| https://www.codewars.com/kata/52c31f8e6605bcc646000082 |
 | 6		| Find the odd int						| https://www.codewars.com/kata/54da5a58ea159efa38000836 |
+| 6		| Length of missing array			| https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611
 | 5		| Moving Zeros To The End				| https://www.codewars.com/kata/52597aa56021e91c93000cb0 |
 | 5		| Calculating with Functions			| https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39 |
 | 5		| Human Readable Time					| https://www.codewars.com/kata/52685f7382004e774f0001f7 |
