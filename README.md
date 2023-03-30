@@ -14,3 +14,4 @@
 | 5		| Not very secure						| https://www.codewars.com/kata/526dbd6c8c0eb53254000110 |
 | 5		| Scramblies							| https://www.codewars.com/kata/55c04b4cc56a697bb0000048 |
 | 5		| RGB To Hex Conversion					| https://www.codewars.com/kata/513e08acc600c94f01000001 |
+| 5		| Beeramid					| https://www.codewars.com/kata/52423db9add6f6fc39000354 |
