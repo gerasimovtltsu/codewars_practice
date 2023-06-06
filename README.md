@@ -23,5 +23,6 @@
 | 4		| Sum Strings as Numbers				| https://www.codewars.com/kata/5324945e2ece5e1f32000370 |
 | 4		| Sum by factors						| https://www.codewars.com/kata/54d496788776e49e6b00052f |
 | 4		| Most frequently used words in a text	| https://www.codewars.com/kata/51e056fe544cf36c410000fb |
+| 4     | Find all possible number combos that sum to a number | https://www.codewars.com/kata/555b1890a75b930e63000023 |
 | 3		| The Millionth Fibonacci				| https://www.codewars.com/kata/53d40c1e2f13e331fc000c26 |
 | 3		| Prime Streaming (PG-13)				| https://www.codewars.com/kata/5519a584a73e70fa570005f5 |
